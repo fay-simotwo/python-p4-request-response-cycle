@@ -55,7 +55,7 @@ a `request` object- among other things- Flask manages requests through
 
 Let's take a look at a simple view function that uses a request object:
 
-```py
+```pyb b
 # server/app.py
 
 from flask import Flask, request
